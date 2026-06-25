@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **📢 The third edition is now available!** Check out the new repository for **AI-Assisted Statistics for Data Scientists**:
+> 👉 https://github.com/gedeck/ai-assisted-statistics-for-data-scientists
+>
+> This repository will no longer be maintained. Please file any issues or pull requests against the [new repository](https://github.com/gedeck/ai-assisted-statistics-for-data-scientists).
+
 [![](https://img.shields.io/badge/python-3.8--3.12-blue.svg)](https://www.python.org/downloads/)
 ![Python](https://github.com/gedeck/dmba/actions/workflows/build.yml/badge.svg)
 
